@@ -1,8 +1,0 @@
-Epoch,Cycle,Cycle_reward,Episode,Goal_Achieved,Steps
-1,0,0.0,0,There is a red sphere; are there any blue spheres in front of it?,0
-1,0,1.0,1,There is a red rubber sphere; are there any cyan balls on the left side of it?,3
-1,0,2.0,2,"There is a cyan rubber sphere, are there any red balls in front of it?",1
-1,0,2.0,2,There is a blue ball; are there any purple rubber spheres in front of it?,9
-1,0,4.0,4,There is a purple rubber ball; are there any red rubber spheres behind it?,3
-1,0,5.0,14,"There is a green ball, are there any blue matte spheres right of it?",0
-1,0,6.0,18,There is a blue ball; are there any cyan matte balls right of it?,8
