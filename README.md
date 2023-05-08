@@ -10,7 +10,7 @@ more in line with human understanding. Language as a tool has been used to allow
 our deep learning agent to have some understanding of abstractions in words we can
 understand, correct and communicate.
 
-
+### [click here, To access full report.](https://github.com/pathu007/Language-as-abstraction/blob/main/Language%20As%20an%20Abstraction%20for%20Hierarchical%20Deep%20Reinforcement%20Learning%20-%20Parth%20Kachhadia%20(1).pdf)
 
 ### References
 - Yiding Jiang, Shixiang Gu, Kevin Murphy, and Chelsea Finn. Language as an Abstraction
